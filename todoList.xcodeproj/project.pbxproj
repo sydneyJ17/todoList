@@ -103,8 +103,8 @@
 			children = (
 				18D6982122DCCDCD00BF910B /* AppDelegate.swift */,
 				18D6982522DCCDCD00BF910B /* Main.storyboard */,
-				18D6985822DCE4EF00BF910B /* TableViewController.swift */,
 				18D6985422DCD17600BF910B /* Todo.swift */,
+				18D6985822DCE4EF00BF910B /* TableViewController.swift */,
 				18D6982B22DCCDD000BF910B /* Assets.xcassets */,
 				18D6982D22DCCDD000BF910B /* LaunchScreen.storyboard */,
 				18D6983022DCCDD000BF910B /* Info.plist */,
